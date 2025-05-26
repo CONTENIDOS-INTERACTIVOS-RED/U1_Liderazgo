@@ -1,1 +1,1 @@
-module.exports = 'CIRED'
+module.exports = 'Teorías y estilos de liderazgo'
